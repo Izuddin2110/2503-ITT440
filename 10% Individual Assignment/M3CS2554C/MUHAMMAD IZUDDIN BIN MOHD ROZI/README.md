@@ -38,6 +38,9 @@ In simple terms, **Scikit-Image** is a Python library made specifically for imag
 
   <div align="center">
   ![image](https://github.com/user-attachments/assets/ddafd572-ca52-44d9-90df-7561766af5ba)
+
+
+  
 </div>
 
   •	Sharpen 
