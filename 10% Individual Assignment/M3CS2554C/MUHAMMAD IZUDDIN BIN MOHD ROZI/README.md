@@ -113,3 +113,14 @@ V. Morphological operation : erosion, diltation
   
 ![image](https://github.com/user-attachments/assets/1a322f25-e74c-498f-95c3-3a5be16bf3bd)
 </div>
+
+
+VI. Color manipulations : convert RGB to grayscale to binary
+
+- RGB to grayscale : 
+
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/bfb1e781-a6b8-4f71-aca3-d34288771ed0)
+
+</div>
