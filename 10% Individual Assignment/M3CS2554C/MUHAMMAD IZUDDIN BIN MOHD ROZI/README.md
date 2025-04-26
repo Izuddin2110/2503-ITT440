@@ -48,10 +48,11 @@ I.  Filtering : blur, sharpen, edge detection
 
 <div align="center">
 
-
-- edge detection :
   
    
 ![image](https://github.com/user-attachments/assets/ef485252-3e0c-46bb-ba11-810f8bf1701c)
 
 </div>
+
+
+- edge detection :
