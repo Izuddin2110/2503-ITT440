@@ -95,3 +95,19 @@ IV. Image transformation : rotate, resize, warp
 
 
   </div>
+
+
+V. Morphological operation : erosion, diltation
+
+- Erosion :
+
+ <div align="center"> 
+  ![image](https://github.com/user-attachments/assets/7c764b8a-49f7-4c8d-bd21-ca5f3c3f9771)
+</div>
+
+
+- Diltation :
+
+<div align="center">
+![image](https://github.com/user-attachments/assets/1a322f25-e74c-498f-95c3-3a5be16bf3bd)
+</div>
