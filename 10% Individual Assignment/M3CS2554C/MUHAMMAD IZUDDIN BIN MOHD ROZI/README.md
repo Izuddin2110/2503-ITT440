@@ -83,4 +83,15 @@ III. Feature detection : corners, blobs, lines
 ![image](https://github.com/user-attachments/assets/2c25aa1a-65f2-49eb-a840-3290315ab761)
 
   </div>
+
+
+IV. Image transformation : rotate, resize, warp
+
+- Resize :
+
+<div align="center">
   
+![image](https://github.com/user-attachments/assets/d474ffb5-6359-4c67-92f1-5b4cb46e0541)
+
+
+  </div>
