@@ -9,3 +9,7 @@
 
 	As technology advances and visual data becomes increasingly central too communication and decision-making, image processing continues to evolve as a vital field in both research and industry, it acts as a foundation for more advanced topics like computer vision, machine learning, and artificial intelligence, allowing the computer to not just look up but also to understand and interpret the visual world.
 
+
+
+2. IMAGE PROCESSING TOOLS
+    ![image](https://github.com/user-attachments/assets/2e63b82f-2f1b-4c35-88b3-5562924329a7)
