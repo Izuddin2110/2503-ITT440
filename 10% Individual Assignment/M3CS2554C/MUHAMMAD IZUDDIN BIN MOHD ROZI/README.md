@@ -62,3 +62,4 @@ I.  Filtering : blur, sharpen, edge detection
   ![image](https://github.com/user-attachments/assets/dbbca33a-c3a7-41f0-afa8-ce352a9d2a55)
   </div>
 
+II. Segmentation : split an image into parts
