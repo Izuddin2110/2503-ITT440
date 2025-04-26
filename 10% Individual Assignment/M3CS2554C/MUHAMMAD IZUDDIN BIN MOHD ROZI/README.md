@@ -19,3 +19,15 @@ As technology advances and visual data becomes increasingly central too communic
 
 
 
+
+# What is Scikit-Image?
+
+In simple terms, **Scikit-Image** is a Python library made specifically for image processing and is part of the SciPy ecosystem. It provides ready-to-use functionality for filtering, segmentation, feature detection, restoration, transformation, and more.
+
+# Advantage Using Scikit-Image
+
+- **Ease to use**: High-level functions and no need for deep computer vision knowledge.
+- **Powerful tools**: Inside scikit-image, there are ready-made functions for almost all common processing needs like denoising, edge detection, segmentation, and transformations. Each tool uses algorithms that are trusted and proven in scientific communities.
+- **Scientific accuracy**: It is designed for real researchers, for example in biology (cell counting), astronomy (star segmentation), and material science (analyzing textures). Functions are mathematically correct and follow peer-reviewed algorithms.
+
+
