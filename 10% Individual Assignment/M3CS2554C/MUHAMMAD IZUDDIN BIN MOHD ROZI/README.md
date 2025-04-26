@@ -63,3 +63,24 @@ I.  Filtering : blur, sharpen, edge detection
   </div>
 
 II. Segmentation : split an image into parts
+
+
+III. Feature detection : corners, blobs, lines
+
+- Corners :
+
+<div align="center">
+  
+ ![image](https://github.com/user-attachments/assets/cc63c366-8bd3-4af9-9941-947457a2cc16)
+
+  </div>
+
+- Blobs detection :
+
+
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/2c25aa1a-65f2-49eb-a840-3290315ab761)
+
+  </div>
+  
