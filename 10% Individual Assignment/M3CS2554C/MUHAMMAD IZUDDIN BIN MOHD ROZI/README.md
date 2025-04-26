@@ -30,4 +30,8 @@ In simple terms, **Scikit-Image** is a Python library made specifically for imag
 - **Powerful tools**: Inside scikit-image, there are ready-made functions for almost all common processing needs like denoising, edge detection, segmentation, and transformations. Each tool uses algorithms that are trusted and proven in scientific communities.
 - **Scientific accuracy**: It is designed for real researchers, for example in biology (cell counting), astronomy (star segmentation), and material science (analyzing textures). Functions are mathematically correct and follow peer-reviewed algorithms.
 
+# Features that can be used in scikit-image 
+
+- Filtering : blur, sharpen, edge detection
+   
 
