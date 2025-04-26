@@ -33,5 +33,14 @@ In simple terms, **Scikit-Image** is a Python library made specifically for imag
 # Features that can be used in scikit-image 
 
 - Filtering : blur, sharpen, edge detection
+   •	 Blur
+
+  <div align="center">
+  
+**<img src="![image](https://github.com/user-attachments/assets/b99c2b3e-323e-45f5-89e2-f92ae47d90b8)
+" alt="image"/>**
+
+</div>
+  
    
 
