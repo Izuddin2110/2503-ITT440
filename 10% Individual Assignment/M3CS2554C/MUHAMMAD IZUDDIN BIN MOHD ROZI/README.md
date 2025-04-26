@@ -124,3 +124,16 @@ VI. Color manipulations : convert RGB to grayscale to binary
 ![image](https://github.com/user-attachments/assets/bfb1e781-a6b8-4f71-aca3-d34288771ed0)
 
 </div>
+
+VII. Restoration : remove noise, deblur image
+
+
+# Real worlds Example using scikit-image 
+•	Biology :- Count number of bacteria in microscope image
+•	Medical imaging :- Segment tumors in MRI or CT scans
+•	Astronomy :- Detect start and galaxies form telescope images
+•	Remote sensing :- analyze land cover types form satellite images
+•	Industrial inspection :- find cracks of defects in products surfaces
+•	Document processing :- clean and extract text from old scanned books
+•	Machince learning :- preprocess images to train AI models
+
