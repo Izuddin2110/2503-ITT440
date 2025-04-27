@@ -188,4 +188,4 @@ VII. Restoration : remove noise, deblur image
 
 
 
-# SIMPLE COMAND
+# SIMPLE COMAND FOR IMAGE PROCESSING USING SCIKIT-IMAGE IN PHYTON 
