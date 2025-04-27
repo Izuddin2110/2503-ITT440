@@ -186,3 +186,6 @@ VII. Restoration : remove noise, deblur image
   </div>
 
 
+
+
+# SIMPLE COMAND
