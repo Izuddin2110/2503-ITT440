@@ -177,4 +177,12 @@ VII. Restoration : remove noise, deblur image
 
    </div>
 
+   <br>
+
+<div align="center">
+
+   ![image](https://github.com/user-attachments/assets/5bbb2bd4-fbb4-4bf3-80eb-e8b8c987376b)
+
+  </div>
+
 
