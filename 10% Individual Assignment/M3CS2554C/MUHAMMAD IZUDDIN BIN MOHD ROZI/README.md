@@ -171,3 +171,10 @@ VII. Restoration : remove noise, deblur image
     >>> io.imshow(original)
     >>> io.show()
 
+<div align="center">
+  
+  ![image](https://github.com/user-attachments/assets/3c9ff0f1-8a6f-458d-bb23-eeef036e47ae)
+
+   </div>
+
+
