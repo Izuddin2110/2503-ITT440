@@ -1,6 +1,6 @@
 # MUHAMMAD IZUDDIN BIN MOHD ROZI
 
-# ** INTRODUCTION OF IMAGE PROCESSING**
+# INTRODUCTION OF IMAGE PROCESSING
 
 In the morden era, image processing take a lot of responsibility of making human task more efficient and easy. Image processing is the technique of analyzing, enhancing, and manipulating the images using algorithms, typically using for software and internet of things (IOT). In easy way too understand image processing taking an image as a input and doing something about it. For example improving its quality, detecting object, changing size or colors.
 
@@ -8,7 +8,7 @@ At its core, image processing is divided into two major type which is analog don
 
 As technology advances and visual data becomes increasingly central too communication and decision-making, image processing continues to evolve as a vital field in both research and industry, it acts as a foundation for more advanced topics like computer vision, machine learning, and artificial intelligence, allowing the computer to not just look up but also to understand and interpret the visual world.
 
-# ** IMAGE PROCESSING TOOLS**
+# IMAGE PROCESSING TOOLS
 
 
 <div align="center">
