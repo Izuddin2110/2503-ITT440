@@ -181,6 +181,7 @@ VII. Restoration : remove noise, deblur image
    </div>
 
    <br>
+   
   ```python 
 >>> i = data.hubble_deep_field()
 >>> i[:, :, 0]=0
