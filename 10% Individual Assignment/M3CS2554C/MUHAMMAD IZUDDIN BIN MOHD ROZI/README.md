@@ -189,3 +189,30 @@ VII. Restoration : remove noise, deblur image
 
 
 # SIMPLE COMMAND FOR IMAGE PROCESSING USING SCIKIT-IMAGE IN PHYTON 
+
+from skimage import io, color, filters
+import matplotlib.pyplot as plt
+
+# Load your own image
+image = io.imread(r'C:\Users\MUHAMMAD IZUDDIN\Downloads\yourimage.jpg')  # <-- change path!
+
+# Convert to grayscale (easier for segmentation)
+gray_image = color.rgb2gray(image)
+
+# Apply threshold to segment
+threshold = filters.threshold_otsu(gray_image)
+segmented = gray_image > threshold
+
+# Show results
+fig, ax = plt.subplots(1, 2, figsize=(10, 5))
+
+ax[0].imshow(gray_image, cmap='gray')
+ax[0].set_title('Grayscale Image')
+ax[0].axis('off')
+
+ax[1].imshow(segmented, cmap='gray')
+ax[1].set_title('Segmented Image')
+ax[1].axis('off')
+
+plt.show()
+
