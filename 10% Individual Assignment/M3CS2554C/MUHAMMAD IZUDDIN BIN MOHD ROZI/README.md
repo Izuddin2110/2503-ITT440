@@ -211,17 +211,17 @@ VII. Restoration : remove noise, deblur image
 from skimage import io, color, filters
 import matplotlib.pyplot as plt
 
-# Step 1: Load your own image
-image = io.imread(r'C:\Users\MUHAMMAD IZUDDIN\Downloads\yourimage.jpg')  # <-- change path!
+# Step 1: Load image
+image = io.imread(r'C:\Users\MUHAMMAD IZUDDIN\Downloads\GitHub.jpg') 
 
-# Step 2: Convert to grayscale (easier for segmentation)
+# Step 2: Convert to grayscale
 gray_image = color.rgb2gray(image)
 
 # Step 3: Apply threshold to segment
 threshold = filters.threshold_otsu(gray_image)
 segmented = gray_image > threshold
 
-# Step 4: Show results
+# Step 4: Display results
 fig, ax = plt.subplots(1, 2, figsize=(10, 5))
 
 ax[0].imshow(gray_image, cmap='gray')
