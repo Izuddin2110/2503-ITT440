@@ -160,3 +160,11 @@ VII. Restoration : remove noise, deblur image
 
   </div>
 
+
+  - Step 3 : Run scikit-image fetures using Python in Commad Promt
+    
+    - Enter commmad : >>> from skimage import data,io
+                      >>> original = data.hubble_deep_field()
+                      >>> io.imshow(original)
+                      >>> io.show()
+
