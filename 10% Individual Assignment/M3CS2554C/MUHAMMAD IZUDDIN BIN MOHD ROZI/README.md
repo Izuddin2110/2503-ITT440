@@ -137,3 +137,7 @@ VII. Restoration : remove noise, deblur image
 - Document processing :- clean and extract text from old scanned books
 - Machince learning :- preprocess images to train AI models
 
+
+
+# Scikit-image installation
+
