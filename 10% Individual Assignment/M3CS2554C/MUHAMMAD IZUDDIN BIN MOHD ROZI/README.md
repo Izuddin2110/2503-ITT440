@@ -202,9 +202,8 @@ VII. Restoration : remove noise, deblur image
 
 
 
-# SIMPLE COMMAND FOR IMAGE PROCESSING USING SCIKIT-IMAGE IN PHYTON 
+# EXAMPLE CODE FOR IMAGE PROCESSING USING SCIKIT-IMAGE IN PHYTON 
 
-## 🛠️ Example Code for Segmentation
 
 ```python
 
