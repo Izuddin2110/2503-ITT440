@@ -154,8 +154,6 @@ VII. Restoration : remove noise, deblur image
 - Step 2 : Install scikit-image using commmad Prompt 
   - Enter command : pip install scikit-image
 
-   C:\Users\MUHAMMAD IZUDDIN>pip install scikit-image
-  
   <div align="center">
     
   ![image](https://github.com/user-attachments/assets/342676a5-5705-49d7-b9a5-b880304dbebf)
