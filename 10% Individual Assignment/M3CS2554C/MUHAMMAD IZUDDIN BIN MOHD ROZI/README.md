@@ -151,5 +151,17 @@ VII. Restoration : remove noise, deblur image
 
     </div>
 
-- Step 2 : Run Python In the commmad Prompt 
+- Step 2 : Install scikit-image using commmad Prompt 
+ - Enter command : pip install scikit-image
 
+   C:\Users\MUHAMMAD IZUDDIN>pip install scikit-image
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: scikit-image in c:\users\muhammad izuddin\appdata\roaming\python\python313\site-packages (0.25.2)
+Requirement already satisfied: numpy>=1.24 in c:\users\muhammad izuddin\appdata\roaming\python\python313\site-packages (from scikit-image) (2.2.5)
+Requirement already satisfied: scipy>=1.11.4 in c:\users\muhammad izuddin\appdata\roaming\python\python313\site-packages (from scikit-image) (1.15.2)
+Requirement already satisfied: networkx>=3.0 in c:\users\muhammad izuddin\appdata\roaming\python\python313\site-packages (from scikit-image) (3.4.2)
+Requirement already satisfied: pillow>=10.1 in c:\users\muhammad izuddin\appdata\roaming\python\python313\site-packages (from scikit-image) (11.2.1)
+Requirement already satisfied: imageio!=2.35.0,>=2.33 in c:\users\muhammad izuddin\appdata\roaming\python\python313\site-packages (from scikit-image) (2.37.0)
+Requirement already satisfied: tifffile>=2022.8.12 in c:\users\muhammad izuddin\appdata\roaming\python\python313\site-packages (from scikit-image) (2025.3.30)
+Requirement already satisfied: packaging>=21 in c:\users\muhammad izuddin\appdata\roaming\python\python313\site-packages (from scikit-image) (25.0)
+Requirement already satisfied: lazy-loader>=0.4 in c:\users\muhammad izuddin\appdata\roaming\python\python313\site-packages (from scikit-image) (0.4)
