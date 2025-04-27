@@ -141,3 +141,7 @@ VII. Restoration : remove noise, deblur image
 
 # Scikit-image installation
 
+
+-Step 1 : Install Python In the Computer/laptop
+  - link : https://www.python.org/
+
