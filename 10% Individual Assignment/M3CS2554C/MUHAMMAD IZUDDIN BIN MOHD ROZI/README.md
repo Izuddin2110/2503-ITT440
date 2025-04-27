@@ -166,11 +166,14 @@ VII. Restoration : remove noise, deblur image
 - Step 3 : Run scikit-image and try fetures Image Color filtering using Python in Commad Promt
   
   - Enter commmad :
+ 
+```python
     >>> from skimage import data,io
     >>> original = data.hubble_deep_field()
     >>> io.imshow(original)
     >>> io.show()
 
+```
 <div align="center">
   
   ![image](https://github.com/user-attachments/assets/3c9ff0f1-8a6f-458d-bb23-eeef036e47ae)
