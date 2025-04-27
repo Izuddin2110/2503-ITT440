@@ -144,4 +144,11 @@ VII. Restoration : remove noise, deblur image
 
 -Step 1 : Install Python In the Computer/laptop
   - link : https://www.python.org/
+    
+    <div align="center">
+      
+    ![image](https://github.com/user-attachments/assets/f6bc7406-d31f-48c8-9c65-368b7e2d2480)
+
+    </div>
+
 
