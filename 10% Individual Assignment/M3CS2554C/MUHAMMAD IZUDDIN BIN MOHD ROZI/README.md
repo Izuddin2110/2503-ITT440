@@ -151,4 +151,16 @@ VII. Restoration : remove noise, deblur image
 
     </div>
 
+-Step 2 : Run Python In the commmad Prompt 
+Python 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from skimage import data,io
+>>> i=data.astronaut()
+>>> io.imshow(i)
+<python-input-2>:1: FutureWarning: `imshow` is deprecated since version 0.25 and will be removed in version 0.27. Please use `matplotlib`, `napari`, etc. to visualize images.
+<matplotlib.image.AxesImage object at 0x0000022524A66CF0>
+>>> io.show()
+<python-input-3>:1: FutureWarning: `show` is deprecated since version 0.25 and will be removed in version 0.27. Please use `matplotlib`, `napari`, etc. to visualize images.
+
+
 
