@@ -1,6 +1,6 @@
 # MUHAMMAD IZUDDIN BIN MOHD ROZI
-
-
+# STUDENT ID : 2024429282
+# LETRURE NAME : SHAHADAN BIN SAAD 
 # INTRODUCTION OF IMAGE PROCESSING
 
 In the morden era, image processing take a lot of responsibility of making human task more efficient and easy. Image processing is the technique of analyzing, enhancing, and manipulating the images using algorithms, typically using for software and internet of things (IOT). In easy way too understand image processing taking an image as a input and doing something about it. For example improving its quality, detecting object, changing size or colors.
