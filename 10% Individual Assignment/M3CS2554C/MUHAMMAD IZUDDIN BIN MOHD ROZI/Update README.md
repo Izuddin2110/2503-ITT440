@@ -298,21 +298,6 @@ plt.show()
 
 # VIDEO DEMOSTRATION
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>YouTube Video Embed</title>
-</head>
-<body>
-    <h2>Embedded YouTube Video</h2>
-    <iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/W85VSinv-NA" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-    </iframe>
-</body>
-</html>
+[![Watch the video](https://img.youtube.com/vi/W85VSinv-NA/0.jpg)](https://youtu.be/W85VSinv-NA)
 
 
