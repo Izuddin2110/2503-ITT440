@@ -300,7 +300,9 @@ plt.show()
 
 <div align="center">
   
-**[![Watch the video](https://img.youtube.com/vi/W85VSinv-NA/0.jpg)](https://youtu.be/W85VSinv-NA)**
+## 🎥 Watch the video
+
+[![Watch the video](https://img.youtube.com/vi/nJObDuYYMG4/0.jpg)](https://youtu.be/nJObDuYYMG4)
 
 </div>
 
