@@ -9,8 +9,9 @@
 **TITLE : INTRODUCTION TO IMAGE PROCESSING USING NUMPY IN PYTHON**    
 ===
 
-**OBJECTIVE** :
----
+**Objective** :
+--
+
 - To write article about image processing using Python.
 - To demonstrate coding use related to the article
 
@@ -60,16 +61,59 @@ NumPy is at the core of image processing in Python, but it works better when com
 
 **Basic NumPy Functions**
 ---
+* np.array([1,2,3])   //create a 1D array
+* np.eye(3)   //identity matrix(3x3)
+* a.shape
+* a.reshape(4,)   //flatten to 1D
+* np.clip(a, 0, 255)   //limit values for brightness changes
+* np.mean(image, axis=2)   //convert colour to grayscale by averaging RGB channels
+
+** Python Code Example for image processing with NumPy**
+---
+```p
+from PIL import Image 
 import numpy as np
 
-np.array([1,2,3])   //create a 1D array
+image = Image.open("image.png")
 
-np.eye(3)   //identity matrix(3x3)
+image_np = np.array(image)
 
-a.shape 
+//convert to grayscale
+if len(image_np.shape) == 3:
+    grayscale = np.mean(image_np,axis=2).astype(np.uint8)
+else:
+    grayscale = image_np
 
-a.reshape(4,)   //flatten to 1D
+grayscale_img = Image.fromarray(grayscale, mode='L')
 
-np.clip(a, 0, 255)   //limit values for brightness changes
+grayscale_img.save("grayscale_output.png")
 
-np.mean(image, axis=2)   //convert colour to grayscale by averaging RGB channels
+print("Grayscale PNG saved successfully.")
+
+//crop from (x=50, y=50) to (x=200, y=200)
+cropped = image_np[50:200, 50:200]
+cropped_img = Image.fromarray(cropped)
+cropped_img.save("cropped_image.png")
+
+//flip image
+flipped = np.fliplr(image_np)
+flipped_img = Image.fromarray(flipped)
+flipped_img.save("flipped_image.png")
+
+// increase brightness by 50 (max 255)
+brighter = np.clip(image_np + 50, 0, 255).astype(np.uint8)
+bright_img = Image.fromarray(brighter)
+bright_img.save("brighter_image.png")
+
+```
+**Sample output**
+---
+![brighter_image](https://github.com/user-attachments/assets/9175f75f-b989-48be-96c4-e9e85af36319) 
+![grayscale_output](https://github.com/user-attachments/assets/22c5541d-900c-4467-a737-8c74b4a6f7ef) 
+![cropped_image](https://github.com/user-attachments/assets/e06ce34b-a196-4f54-8235-e29655b3079f)
+![flipped_image](https://github.com/user-attachments/assets/e1ed8265-3a42-4473-90ee-1984ab116cc6)
+
+**Demonstration image processing using NumPy in Python**
+Youtube link :
+
+https://youtu.be/UAIPT4ihvS0?si=wCzLX49uCeUt13VW
