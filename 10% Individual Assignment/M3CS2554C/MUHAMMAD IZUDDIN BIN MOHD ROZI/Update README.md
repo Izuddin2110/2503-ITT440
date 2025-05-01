@@ -296,5 +296,23 @@ plt.show()
 
  Scikit-image is a powerful, easy-to-use Python library that provides efficient and scalable tools for a wide range of image processing tasks. Whether you're working with image filtering, feature extraction, segmentation, or transformations, scikit-image simplifies complex operations, making it accessible to both beginners and advanced users. Its integration with the scientific Python ecosystem (like NumPy and SciPy) ensures that it is suitable for a variety of applications, from scientific research to industrial projects. With its clear documentation and extensive functionality, scikit-image remains an essential tool for anyone working with digital image analysis.
 
+# VIDEO DEMOSTRATION
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>YouTube Video Embed</title>
+</head>
+<body>
+    <h2>Embedded YouTube Video</h2>
+    <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/W85VSinv-NA" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</body>
+</html>
 
 
