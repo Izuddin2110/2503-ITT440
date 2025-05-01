@@ -298,6 +298,12 @@ plt.show()
 
 # VIDEO DEMOSTRATION
 
-[![Watch the video](https://img.youtube.com/vi/W85VSinv-NA/0.jpg)](https://youtu.be/W85VSinv-NA)
+<div align="center">
+  
+**[![Watch the video](https://img.youtube.com/vi/W85VSinv-NA/0.jpg)](https://youtu.be/W85VSinv-NA)**
+
+</div>
+
+
 
 
