@@ -79,4 +79,4 @@ plt.show()
 
 ```
 ### [Watch My Mahotas Image Processing Demo]
-(https://youtu.be/5yiIxnm_Glk?feature=abc123xyz)
+[![Watch the demo](https://img.youtube.com/vi/5yiIxnm_Glk/0.jpg)](https://www.youtube.com/watch?v=5yiIxnm_Glk)
